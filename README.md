@@ -98,7 +98,7 @@ If I try to record a video with the same computer that was running the sinulatio
 For instance. This car gives 2 laps, and then goes out:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=93J0fP8uBjw
-" target="_blank"><img src="http://img.youtube.com/vi/93J0fP8uBjw/0.jpg" 
+" target="_BLANK"><img src="http://img.youtube.com/vi/93J0fP8uBjw/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="600" border="10" /></a>
 
 but if you leave it without recording, it can be 

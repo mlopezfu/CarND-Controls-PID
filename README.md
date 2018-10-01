@@ -44,8 +44,8 @@ we will have some zigzag driving, till we are out of the road.
 
 If we only use Ki
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=uESo089efFM
-" target="_blank"><img src="http://img.youtube.com/vi/uESo089efFM/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Nzi1BGh8f5A
+" target="_blank"><img src="http://img.youtube.com/vi/Nzi1BGh8f5A/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="600" border="10" /></a>
 
 we will have a first turn and then another one that will bring us out of the road.
@@ -60,9 +60,9 @@ we will have a better driving at the beggining, but when we reach the first curv
 
 But if we mix the three values together we can reach a good solution.
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/mlopezfu/CarND-Controls-PID/blob/master/videos/goodResult.mov" type="video/mp4">
-</video>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=rHaqJdHhmmw
+" target="_blank"><img src="http://img.youtube.com/vi/rHaqJdHhmmw/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="600" border="10" /></a>
 
 ## How to get the result
 As noted in wikipedia https://en.wikipedia.org/wiki/PID_controller
@@ -97,18 +97,18 @@ If I try to record a video with the same computer that was running the sinulatio
 
 For instance. This car gives 2 laps, and then goes out:
 
-<video width="320" height="240" controls>
-  <source src="videos/fail2lap.mov" type="video/mp4">
-</video>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=93J0fP8uBjw
+" target="_blank"><img src="http://img.youtube.com/vi/93J0fP8uBjw/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="600" border="10" /></a>
 
 but if you leave it without recording, it can be 
 forever into the road.
 
 And now, just like a outtake, we have a weird behaviour, where a car was working good, and then made that in the recording.
 
-<video width="320" height="240" controls>
-  <source src="videos/recoveryAfterFailure.mov" type="video/mp4">
-</video>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=TTqF6gu6dwE
+" target="_blank"><img src="http://img.youtube.com/vi/TTqF6gu6dwE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="600" border="10" /></a>
 
 
 

@@ -52,9 +52,9 @@ we will have a first turn and then another one that will bring us out of the roa
 
 If we only use Kd
 
-<video width="320" height="240" controls>
-  <source src="videos/onlyKp.mov" type="video/mp4">
-</video>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=uESo089efFM
+" target="_blank"><img src="http://img.youtube.com/vi/uESo089efFM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="400" border="10" /></a>
 
 we will have a better driving at the beggining, but when we reach the first curve we will be out of the road.
 

@@ -61,7 +61,7 @@ we will have a better driving at the beggining, but when we reach the first curv
 But if we mix the three values together we can reach a good solution.
 
 <video width="320" height="240" controls>
-  <source src="videos/goodResult.mov" type="video/mp4">
+  <source src="https://github.com/mlopezfu/CarND-Controls-PID/blob/master/videos/goodResult.mov" type="video/mp4">
 </video>
 
 ## How to get the result

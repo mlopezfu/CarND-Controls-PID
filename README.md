@@ -36,17 +36,17 @@ After that, we have to tune Kp, Ki and Kd.
 
 If we only use Kp
 
-<video width="320" height="240" controls>
-  <source src="videos/onlyKp.mov" type="video/mp4">
-</video>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=6_e9KlKz3bA
+" target="_blank"><img src="http://img.youtube.com/vi/6_e9KlKz3bA/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="600" border="10" /></a>
 
 we will have some zigzag driving, till we are out of the road.
 
 If we only use Ki
 
-<video width="320" height="240" controls>
-  <source src="videos/onlyKi.mov" type="video/mp4">
-</video>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=uESo089efFM
+" target="_blank"><img src="http://img.youtube.com/vi/uESo089efFM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="600" border="10" /></a>
 
 we will have a first turn and then another one that will bring us out of the road.
 
@@ -54,7 +54,7 @@ If we only use Kd
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=uESo089efFM
 " target="_blank"><img src="http://img.youtube.com/vi/uESo089efFM/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="400" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="600" border="10" /></a>
 
 we will have a better driving at the beggining, but when we reach the first curve we will be out of the road.
 
